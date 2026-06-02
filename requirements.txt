@@ -8,5 +8,3 @@ beautifulsoup4
 langchain-openai
 langchain-core
 python-dotenv
-# 阶段 P2 再装: langgraph, pypdf, unstructured
-# 阶段 P4 再装: fastapi, uvicorn
