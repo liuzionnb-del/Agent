@@ -1,0 +1,12 @@
+torch==2.2.2
+numpy<2
+transformers==4.39.3
+sentence-transformers==2.7.0
+arxiv
+requests
+beautifulsoup4
+langchain-openai
+langchain-core
+python-dotenv
+# 阶段 P2 再装: langgraph, pypdf, unstructured
+# 阶段 P4 再装: fastapi, uvicorn
